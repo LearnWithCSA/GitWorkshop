@@ -1,0 +1,23 @@
+# .gitignore
+
+# PowerPoint temporary files
+~*.pptx
+~*.pptm
+~*.ppt
+~*.ppsx
+~*.ppsm
+~*.pps
+~*.potx
+~*.potm
+~*.pot
+
+# PowerPoint lock files
+*.pptx.lck
+*.pptm.lck
+*.ppt.lck
+*.ppsx.lck
+*.ppsm.lck
+*.pps.lck
+*.potx.lck
+*.potm.lck
+*.pot.lck
